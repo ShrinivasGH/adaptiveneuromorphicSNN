@@ -5,6 +5,8 @@ This project simulates and evaluates the performance of adaptive neuromorphic ci
 Adaptive neuromorphic circuits are crucial for implementing spiking neural networks that operate efficiently in terms of power and speed. These circuits are designed to mimic biological neurons, using adaptive mechanisms to adjust circuit behavior based on input patterns. This project’s design incorporates STDP, allowing the circuit to dynamically alter responses based on timing and frequency of input spikes, making it ideal for energy-constrained applications. Adaptive neuromorphic circuits have wide applications in signal processing, robotics, sensor interfaces, and embedded AI for edge devices.
 # Overview of the Neuromorphic Circuit Components
 The adaptive neuromorphic circuit is designed to enhance efficiency, with a high power supply rejection ratio (PSRR) and minimal temperature dependency. The design focuses on components that support STDP, enabling the circuit to learn and adapt without extensive computation. The principle of operation, circuit implementation, challenges, improvements, conclusions, and future scope will be discussed further.
+https://drive.google.com/file/d/1Sw9olKTx1gW6l0yyL07kJimI7CTSJsMX/view?usp=drivesdk
+
 # Block Diagram of the Adaptive Neuromorphic IP
  
 # Installing Ngspice on Windows 10
