@@ -8,6 +8,7 @@ The adaptive neuromorphic circuit is designed to enhance efficiency, with a high
 https://drive.google.com/file/d/1Sw9olKTx1gW6l0yyL07kJimI7CTSJsMX/view?usp=drivesdk
 
 # Block Diagram of the Adaptive Neuromorphic IP
+![WhatsApp Image 2024-11-08 at 19 33 46_9ce76037](https://github.com/user-attachments/assets/f8e92656-8041-4fb6-b870-1d6d09ec27ad)
  
 # Installing Ngspice on Windows 10
  1. Download Ngspice
